@@ -35,13 +35,7 @@ This project prototypes an AI-powered multimodal archive system similar to what 
 - **Content Management**: Organizing multimedia databases with semantic search  
 - **Research Applications**: Academic analysis of multimodal datasets  
 
-## 📊 Dataset
 
-**MSR-VTT (Microsoft Research Video to Text)** - Prototype dataset includes:  
-- **10,000** short YouTube video clips (~20 seconds each)  
-- **200,000** human-written captions (20 per video)  
-- **20 comprehensive categories** covering diverse visual content  
-- **Multimodal data**: Video frames, audio tracks, and text annotations  
 
 ## 🛠️ Technology Stack
 
