@@ -41,5 +41,5 @@ For the prototype, we are using the **MSR-VTT dataset**:
 
 ---
 
-## 📦 Project Structure
+
 
