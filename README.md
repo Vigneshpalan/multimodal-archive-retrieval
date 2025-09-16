@@ -16,7 +16,7 @@ An AI-powered news-style multimodal archive system for storing and retrieving **
 
 ## 🚀 Overview
 
-This project prototypes an AI-powered multimodal archive system similar to what news channels and media organizations use for content retrieval. The system enables **semantic similarity search** across different modalities, allowing users to find relevant content regardless of input type.
+This project prototypes an AI-powered multimodal archive system  for content retrieval. The system enables **semantic similarity search** across different modalities, allowing users to find relevant content regardless of input type.
 
 **Key Innovation**: Query with any modality (image, video, audio, text) and retrieve similar content across the entire archive using deep learning embeddings and vector similarity search.
 
